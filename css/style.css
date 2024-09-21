@@ -85,7 +85,7 @@ img {
     background-position: center top;
 }
 #home {    
-    background-image: url(./img/main-bg.jpg);
+    background-image: url(/img/main-bg.jpg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -95,7 +95,7 @@ img {
 /* NEWS
 ---------- */
 #news {
-    background-image: url(./img/news-bg.jpg);
+    background-image: url(/img/news-bg.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -198,7 +198,7 @@ aside p {
 /* MENU
 ---------- */
 #menu {
-    background-image: url(./img/menu-bg.jpg);
+    background-image: url(/img/menu-bg.jpg);
     min-height: 100vh;
 }
 .menu-content {
@@ -223,7 +223,7 @@ aside p {
 /* CONTACT
 ---------- */
 #contact {
-    background-image: url(./img/contact-bg.jpg);
+    background-image: url(/img/contact-bg.jpg);
     min-height: 110vh;
 }
 
